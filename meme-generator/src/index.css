@@ -54,7 +54,6 @@ main {
     color: white;
     border: none;
     cursor: pointer;
-    font-weight: bold;
 }
 
 .form input, .form button {
